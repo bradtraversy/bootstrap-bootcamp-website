@@ -5,4 +5,4 @@
 This is part of a [YouTube tutorial](https://www.youtube.com/watch?v=4sosXZsdy-s&t=186s)
 
 ### Website Demo
-https://www.frontendbootcampdemo.com/
+https://github.com/sohaibMan/bootstrap-bootcamp-website.github.io
